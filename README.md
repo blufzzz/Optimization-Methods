@@ -1,2 +1,2 @@
 # Optimization-Methods
-Repository with activity regarding course "Optimization Methods" in Skoltech, 2019
+Repository with homeworks of the course "Optimization Methods" in Skoltech, 2019
